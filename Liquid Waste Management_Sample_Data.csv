@@ -1,0 +1,501 @@
+State Name (state_name),State Code (state_code),District Name (district_name),District Code (district_code),Block Name (block_name),Block Code (block_code),Gram Panchayat Name (gp_name),Gram Panchayat Code (gp_code),Village Name (village_name),Village Code (village_code),Is LGD Hierarchy Exact Mapped (is_lgd_exact_mapping),Asset (asset),Sbm (sbm),Mgnrega (mnerga),Mopr (mopr),Shared With Other Village(SBM-G) (shared_other_vil),Households Covered(%) (hhs_covered_per)
+"Himachal Pradesh","2","Kangra","18","Pragpur","162","Sehri","8754","Sehri (199)","10726",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Arunachal Pradesh","12","West Kameng","242","Nafra","6804","West Sachung Najangpong","298423","Najangpong","261719",true,"Drainage facility available in village",1,0,0,"",""
+"Jammu And Kashmir","1","Kulgam","622","Qaimoh","9","Tarigam","241706","Tarigam Devsar","3916",true,"Drainage facility available in village",2,0,0,"",""
+"Madhya Pradesh","23","Mandla","415","Bichhiya","3900","Kariagaon","142673","Kariyagaon","493195",true,"Drainage facility available in village",1,0,0,"",""
+"Himachal Pradesh","2","Hamirpur","17","Bijhari","147","Nanawan","8051","Biar Khurd (35/15)","17541",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Rajasthan","8","Alwar","87","Ramgarh","583","Bagar Mev","34168","Bagar Meo","72581",false,"Community Grey Water Management Systems",0,0,0,0,0
+"Assam","18","Jorhat","290","North West Jorhat","2596","Uttar Pachim Charigaon","106662","Dahikhor Gaon","293739",false,"Community Grey Water Management Systems",2,0,0,0,100
+"Uttarakhand","5","Chamoli","47","Narayanbagar","372","Khainoli","22482","Khainoli","41630",true,"Community Soak/Leach/Magic Pits",2,0,0,"",100
+"Andhra Pradesh","28","West Godavari","523","Palacole","5735","Dagguluru","214806","Dagguluru","588778",true,"Community Grey Water Management Systems",1,0,0,0,28.18
+"Rajasthan","8","Bhilwara","92","Mandal","625","Keriya","35808","Debipura","916163",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Gujarat","24","Dangs","444","Subir","7109","Keshbandh","157943","Biliamba","522552",true,"Community Grey Water Management Systems",0,0,0,0,0
+"West Bengal","19","Malda","316","Bamongola","2932","Chandpur","109857","Patul","312837",true,"Drainage facility available in village",1,0,0,"",""
+"Jharkhand","20","Dumka","326","Ramgarh","3104","Patharia","112173","Labarti","370193",true,"Community Soak/Leach/Magic Pits",6,0,0,"",100
+"Himachal Pradesh","2","Mandi","22","Drang","179","Urla","9348","Hiun (373)","13080",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Madhya Pradesh","23","Ashoknagar","391","Ashoknagar","3740","Khejara Khurd","131863","Lidhora","500450",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Kheri","159","Lakhimpur","1300","Adampur Devariya","73420","Adampur","136261",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Azamgarh","123","Ahiraula","866","Bahera","46861","Amiliya Mt.Chhitauna","192311",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Madhya Pradesh","23","Chhatarpur","398","Bada Malehara","3781","Lidhaura","134651","Salaiya","458097",false,"Community Grey Water Management Systems",0,0,0,0,0
+"Assam","18","Cachar","282","Kalain","2512","Kurkuri","105834","Karkari T.E.","299064",false,"Drainage facility available in village",1,0,0,"",""
+"Rajasthan","8","Jaisalmer","103","Sankra","699","Chok","38801","Chok","86313",true,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Ghazipur","146","Ghazipur","1140","Bikapur","64021","Bikapur","205071",true,"Drainage facility available in village",5,0,0,"",""
+"Rajasthan","8","Banswara","88","Banswara","590","Nalda","34437","Talabpada","925884",true,"Drainage facility available in village",1,0,0,"",""
+"Maharashtra","27","Satara","494","Koregaon","4563","Ekambe","189590","Ekambe","563689",true,"Drainage facility available in village",3,0,2,"",""
+"Himachal Pradesh","2","Shimla","23","Theog","193","Bagri","9844","Darghot (39)","25288",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Rajasthan","8","Sikar","114","Dhod","774","Chirasara","294921","Chirasara","81694",true,"Community Soak/Leach/Magic Pits",1,0,0,"",100
+"West Bengal","19","Howrah","313","Bagnan-I","2907","Khalore","109588","Sitalpur","333058",true,"Community Soak/Leach/Magic Pits",1,0,0,"",9.9
+"Meghalaya","17","South West Garo Hills","663","Zikzak","2482","Digligre","283143","Digligre","273900",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Karnataka","29","Vijayanagara","738","Kudligi","5785","Alooru","216214","Kenchamallanahalli","605132",true,"Community Grey Water Management Systems",1,0,0,0,100
+"Rajasthan","8","Bhilwara","92","Bijoliya","6819","Uma Ji Ka Khera","35871","Fatherpura","96337",false,"Community Grey Water Management Systems",0,0,0,0,0
+"Tamil Nadu","33","Krishnagiri","577","Thally","6212","Kuppati","225030","Kuppatti","644041",true,"Community Soak/Leach/Magic Pits",4,0,0,"",72.46
+"Uttar Pradesh","9","Balrampur","127","Gaisri","927","Mankaura Kashiram","50667","Mankaura Kashiram","173575",true,"Community Grey Water Management Systems",2,0,0,0,10.4
+"Tamil Nadu","33","Cuddalore","570","Cuddalore","6121","Thirumanikuzhi","222398","Tirumanikkuli","636655",true,"Drainage facility available in village",2,0,0,"",""
+"Rajasthan","8","Khairthal-Tijara","770","Tijara","586","Rabhana","34289","Nanghedi","72301",true,"Community Soak/Leach/Magic Pits",8,0,0,"",100
+"Karnataka","29","Chikkamagaluru","532","Mudigere","5805","Kirugunda","216931","Hegravalli","610028",true,"Drainage facility available in village",1,0,0,"",""
+"Arunachal Pradesh","12","Kurung Kumey","233","Nyapin","2196","Upper Nyapin","102503","Mingpa","263463",false,"Drainage facility available in village",1,0,0,"",""
+"Odisha","21","Jajpur","356","Korei","3401","Taharpur","118459","Taharpur","400759",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Madhya Pradesh","23","Morena","417","Porsa","3919","Rajoudha","143978","Rajaudha","452065",true,"Community Soak/Leach/Magic Pits",20,0,2,"",50.18
+"Bihar","10","Bhojpur","193","Behea","1692","Osai","94806","Dalpatpur","247127",true,"Drainage facility available in village",4,0,0,"",""
+"Madhya Pradesh","23","Dhar","403","Dahi","3818","Amlal","137343","Amlal","475584",true,"Community Soak/Leach/Magic Pits",16,0,0,"",47.36
+"Jharkhand","20","Palamu","338","Padwa","6649","Lohara","114524","Basu","366029",true,"Drainage facility available in village",3,0,0,"",""
+"Jharkhand","20","Dumka","326","Kathikund","3102","Pandan Pahari","112123","Pandanpahari","370751",true,"Drainage facility available in village",1,0,0,"",""
+"Maharashtra","27","Amravati","468","Amravati","4299","Anjangaon Bari","169463","Anjangaon Bari","532717",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Tamil Nadu","33","Virudhunagar","597","Rajapalaiyam","6478","Samusigapuram","234151","Samusigapuram (Ct)","641208",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Haryana","6","Yamunanagar","76","Chhachhrauli","561","Dhakwala","33271","Bachon (182)","58256",true,"Drainage facility available in village",1,0,0,"",""
+"Uttarakhand","5","Pithoragarh","53","Kanalichina","418","Kanadhar","25555","Kanadhar","49505",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Uttar Pradesh","9","Deoria","137","Bhatpar Rani","1053","Malichhapar","58965","Dhanouti","191698",true,"Community Grey Water Management Systems",0,0,0,0,0
+"West Bengal","19","Jhargram","703","Binpur-I","2972","Baita","110225","Gahami","336377",true,"Drainage facility available in village",0,0,0,"",""
+"Madhya Pradesh","23","Rewa","424","Gangev","3954","Mahmoodpur","146737","Patai","465618",true,"Community Soak/Leach/Magic Pits",1,0,0,"",30.77
+"Chhattisgarh","22","Sakti","762","Dabhara","3644","Amaldiha","125203","Amaldiha","437192",true,"Drainage facility available in village",1,0,0,"",""
+"Chhattisgarh","22","Surguja","389","Lundra","3723","Kirkima","295939","Kirkima","433353",true,"Drainage facility available in village",2,0,1,"",""
+"Jammu And Kashmir","1","Kathua","7","Marheen","6978","Chandwan","240950","Chandwan","2017",true,"Community Soak/Leach/Magic Pits",1,1,0,"",19.41
+"Odisha","21","Khordha","362","Bhubaneswar","3460","Itipur","119605","Nistarinipur","407749",true,"Drainage facility available in village",1,0,0,"",""
+"Assam","18","Dhubri","285","Dharamasala","2555","Durahati","106159","Singimari Pt.Ii","280980",true,"Community Grey Water Management Systems",1,0,0,0,77.64
+"Uttarakhand","5","Almora","45","Takula","361","Jharkot","21548","Rore Mafi","52813",true,"Community Soak/Leach/Magic Pits",1,0,0,"",100
+"Rajasthan","8","Udaipur","117","Kotra","799","Dhedhamta","42555","Dhadhamta","105980",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Andhra Pradesh","28","Ananthapuramu","502","Bommanahal","4693","Unthakal","195889","Untakal","594691",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Madhya Pradesh","23","Anuppur","390","Jaithari","3737","Lharpur","131634","Laharpur","501963",true,"Drainage facility available in village",0,0,0,"",""
+"Odisha","21","Kataka","350","Tigiria","3345","Nizigarh","117174","Karadapalli","398994",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Maharashtra","27","Nashik","487","Baglan","4479","Khamlon","182648","Khamlon","550060",true,"Community Soak/Leach/Magic Pits",6,0,0,"",100
+"Jharkhand","20","Deoghar","324","Sarath","3088","Palma","111689","Harirakha","355319",true,"Community Soak/Leach/Magic Pits",3,0,0,"",100
+"Odisha","21","Puri","369","Gop","3539","Tarakor","120954","Tarakor","409538",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Himachal Pradesh","2","Kangra","18","Lambagaon","157","Ashapuri","8463","Maharaj Nagar (633)","11387",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Gujarat","24","Jamnagar","447","Kalavad","4127","Sarvaniya Hakumati","159046","Sarvaniya Hakumati","513842",true,"Drainage facility available in village",3,0,0,"",""
+"Karnataka","29","Gadag","537","Ron","5834","Jakkali","217823","Jakkali","601961",true,"Community Grey Water Management Systems",1,0,0,0,86.27
+"Gujarat","24","Ahmedabad","438","Detroj Rampura","4053","Dabhsar","154621","Dabhsar","511441",true,"Drainage facility available in village",1,0,0,"",""
+"Jharkhand","20","East Singhbum","327","Chakulia","3109","Bhatkunda","112275","Bhalukbindha","364381",true,"Drainage facility available in village",1,0,0,"",""
+"Bihar","10","Darbhanga","195","Jale","1724","Karwa Tariyani","95309","Karwa","226738",true,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Etah","138","Marehra","1070","Dhiramai9/3/4 Biswa","59960","Dhiramai9/3/4 Biswa","214704",true,"Community Soak/Leach/Magic Pits",1,0,0,"",6.43
+"Jharkhand","20","Hazaribagh","332","Sadar","3176","Badasi","113730","Barasi","368509",true,"Community Grey Water Management Systems",1,0,0,0,0
+"Assam","18","Kokrajhar","294","Dotma","2634","Hokmabil","253687","Lowdanga","280052",true,"Drainage facility available in village",1,0,0,"",""
+"Jharkhand","20","Godda","330","Poraiyahat","3148","Chatra","113149","Murgabani","357572",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Odisha","21","Balangir","345","Muribahal","3292","Tupaudar","115932","Badudar","421381",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Hardoi","150","Shahabad","1210","Dalel Nagar","68335","Dalel Nagar","139257",true,"Drainage facility available in village",11,0,0,"",""
+"Madhya Pradesh","23","Datia","401","Bhander","3807","Touri","136492","Touri","454903",true,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Budaun","133","Mion","1008","Dharampur","265148","Budhua Rukhara","128974",true,"Drainage facility available in village",3,0,0,"",""
+"Uttarakhand","5","Pithoragarh","53","Didihat","416","Ranikhet","25383","Naulia Gaon","49160",true,"Drainage facility available in village",1,0,0,"",""
+"Madhya Pradesh","23","Dewas","402","Tonk Khurd","3815","Kradiya","137181","Bhanwara","473286",true,"Community Grey Water Management Systems",0,0,0,0,0
+"West Bengal","19","Malda","316","Ratua-Ii","2946","Sreepur-I","110000","Laskarpur","312443",true,"Community Soak/Leach/Magic Pits",24,0,0,"",100
+"Uttar Pradesh","9","Chandauli","135","Chandauli","1036","Sudaw","57895","Sudaw","207588",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttarakhand","5","Nainital","51","Betalghat","391","Basgoan","23587","Basgaon","54478",true,"Drainage facility available in village",3,0,0,"",""
+"Rajasthan","8","Hanumangarh","101","Tibbi","6616","Mirjewali Mer","38091","11 Ag","67507",true,"Drainage facility available in village",1,0,0,"",""
+"Jharkhand","20","Garhwa","328","Kandi","3123","Ghatahua Kalan","112558","Ratangara","347298",true,"Community Grey Water Management Systems",1,0,0,0,74.82
+"Himachal Pradesh","2","Solan","25","Kandaghat","201","Satrol","10171","Shalah Brahamana","22258",false,"Community Grey Water Management Systems",0,0,0,0,0
+"Odisha","21","Kendrapada","360","Kendrapada","3437","Kansar","119111","Chandiapali","396532",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Maharashtra","27","Gadchiroli","475","Etapalli","4377","Geda","174977","Barsewada (M)","539640",true,"Drainage facility available in village",4,0,0,"",""
+"Bihar","10","Siwan","222","Goriakothi","2113","Sarari Uttar","101331","Sarari","231572",true,"Community Soak/Leach/Magic Pits",11,0,0,"",6.12
+"Madhya Pradesh","23","Sidhi","433","Sihawal","4025","Pipraha","152479","Piparha","502804",true,"Drainage facility available in village",0,0,0,"",""
+"Uttar Pradesh","9","Bahraich","125","Mihinpurwa","900","Gurh","49150","Gurh","171250",true,"Community Grey Water Management Systems",2,0,0,0,30.14
+"Haryana","6","Sirsa","74","Dabwali","547","Jogewala","32574","Joge Wala(279)","60533",true,"Community Soak/Leach/Magic Pits",1,0,0,"",11.13
+"Punjab","3","Patiala","41","Nabha","326","Gadaya","18691","Gadaya (148)","36387",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Maharashtra","27","Pune","490","Mulshi","4520","Walunjwadi","298895","Walunjwadi","555518",false,"Community Grey Water Management Systems",0,0,0,0,0
+"Odisha","21","Nuapada","368","Nuapada","3534","Bhaleswar","120829","Tamakidadar(Kala)","421605",true,"Community Soak/Leach/Magic Pits",11,0,0,"",74.23
+"Rajasthan","8","Bharatpur","91","Bayana","611","Gurdha Nadi","35263","Moodiya","75007",true,"Drainage facility available in village",1,0,0,"",""
+"Rajasthan","8","Bundi","94","Hindoli","636","Sathoor","36248","Solaki Jhonpariyan","93860",true,"Drainage facility available in village",4,0,0,"",""
+"Madhya Pradesh","23","Panna","420","Pawai","3933","Badkhera","144978","Badkhera","459198",true,"Drainage facility available in village",6,0,0,"",""
+"Rajasthan","8","Bikaner","93","Poogal","7435","Aduri","36003","Gogliwala","69184",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Karnataka","29","Chikkamagaluru","532","Tarikere","5808","Kenchikoppa","216993","Malikoppa","609113",true,"Drainage facility available in village",1,0,0,"",""
+"Odisha","21","Koraput","363","Narayan Patana","3477","Tentulipadar","119898","Kanaka","428624",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Bihar","10","Begusarai","191","Birpur","1661","Dihpar","94369","Mozfara","238066",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Karnataka","29","Bengaluru South","631","Ramanagara","5770","Jalamagal","215609","Jalamangala","626051",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Madhya Pradesh","23","Dindori","404","Bajag","3830","Dullopur","138023","Dullopur","492260",true,"Community Soak/Leach/Magic Pits",7,0,0,"",100
+"Gujarat","24","Vadodara","461","Vadodara(City And Rural)","4267","Gokalpura","167091","Gokalpura","519852",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Azamgarh","123","Atraulia","867","Karsara","46966","Bilari Mt. Gopal Patti","192120",true,"Community Soak/Leach/Magic Pits",1,0,0,"",98.89
+"Haryana","6","Rewari","72","Khol At Rewari","538","Nangal Jamal Pur","32224","Nangal Jamalpur (25)","62496",true,"Community Grey Water Management Systems",1,0,0,0,76.54
+"Assam","18","Hailakandi","289","Katlicherra","2588","Dholai Molai","106544","Dholai Molai Pt I","301166",false,"Drainage facility available in village",1,0,0,"",""
+"West Bengal","19","Purba Bardhaman","306","Purbasthali-Ii","2822","Nimdaha","108719","Chhatni","319534",true,"Community Soak/Leach/Magic Pits",2,0,0,"",94.84
+"Rajasthan","8","Barmer","90","Dhorimanna","607","Sobhala Jetmal","35211","Siyagon Ki Dhani","87703",false,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"West Bengal","19","Purba Bardhaman","306","Purbasthali-I","2821","Bogpur","108706","Rajibpur","319505",true,"Drainage facility available in village",3,0,0,"",""
+"Uttar Pradesh","9","Mau","168","Dohri Ghat","1380","Bahadur Pur","78346","Bahadur Pur","196081",true,"Community Soak/Leach/Magic Pits",5,0,0,"",100
+"West Bengal","19","Birbhum","307","Murarai-Ii","2836","Kushmore-I","108842","Simgram","316113",true,"Community Soak/Leach/Magic Pits",4,0,0,"",31.35
+"Karnataka","29","Chitradurga","533","Chitradurga","5810","Hireguntanur","217066","Hireguntanur","605554",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Himachal Pradesh","2","Shimla","23","Chopal","187","Dhavas","9637","Kuhal (123)","25546",true,"Community Grey Water Management Systems",1,0,0,0,100
+"Meghalaya","17","South Garo Hills","277","Baghmara","2471","Agronggre","285323","Agronggre","276145",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Madhya Pradesh","23","Mandsaur","416","Mandsaur","3912","Kolwa","143412","Kolwa","469592",true,"Drainage facility available in village",1,0,0,"",""
+"Assam","18","Karbi Anglong","292","Langsomepi","2620","Singhason (Part)","257817","Monsing Teron (297513)","297513",false,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Gujarat","24","Chhotaudepur","668","Sankheda","4264","Garda","166872","Soytha","520910",true,"Drainage facility available in village",1,0,0,"",""
+"Tamil Nadu","33","Nagapattinam","579","Nagappattinam","6233","Avarani","225753","Abaranadari","637691",true,"Community Soak/Leach/Magic Pits",14,0,0,"",100
+"Haryana","6","Yamunanagar","76","Radaur","564","Hartan","33502","Majri (169)","57771",true,"Drainage facility available in village",1,0,0,"",""
+"Odisha","21","Baleshwar","346","Baleshwar","3299","Rasulpur","116085","Gobindapur","392520",true,"Drainage facility available in village",1,0,0,"",""
+"West Bengal","19","Purba Bardhaman","306","Ketugram-Ii","2812","Maugram","108623","Maugram","319267",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Haryana","6","Karnal","67","Nissing","516","Motia","235929","Motia (57)","59262",true,"Community Grey Water Management Systems",3,0,0,0,100
+"Telangana","36","Mulugu","720","Venkatapuram","5094","Barlagudem","202822","Mahitapuram (Z)","578756",true,"Drainage facility available in village",1,0,0,"",""
+"Bihar","10","Katihar","201","Azamnagar","1799","Baghaura","96422","Keshopur","225127",true,"Community Soak/Leach/Magic Pits",6,0,0,"",100
+"Odisha","21","Sundaragada","373","Kuarmunda","3580","Padampur","121637","Padampur","384371",true,"Community Soak/Leach/Magic Pits",1,0,0,"",100
+"Bihar","10","Aurangabad","189","Haspura","1638","Dumara","93942","Habaspur","252775",true,"Drainage facility available in village",1,0,0,"",""
+"Andhra Pradesh","28","Bapatla","750","Martur","5484","Bollapalli","234769","Bolla Palle","590702",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Bihar","10","Gopalganj","197","Kataiya","1762","Ram Das Bagahi","95892","Belaura","229800",false,"Community Soak/Leach/Magic Pits",5,0,0,"",100
+"Rajasthan","8","Churu","96","Churu","654","Ghantel","36797","Dhani Muneemji","70496",true,"Drainage facility available in village",3,0,0,"",""
+"Punjab","3","Hoshiarpur","33","Mahilpur","273","Parsowal","14412","Parsowal (325)","31831",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Azamgarh","123","Jahanaganj","871","Sema","47310","Mahuwasin","194029",true,"Community Soak/Leach/Magic Pits",8,0,0,"",100
+"Uttar Pradesh","9","Kheri","159","Bijuwa","1296","Belwa Sikatiya","73186","Jamhora","135507",true,"Drainage facility available in village",2,0,0,"",""
+"Uttar Pradesh","9","Lucknow","162","Kakori","1332","Manbhauna","265349","Man Bhouna","143353",true,"Community Soak/Leach/Magic Pits",9,5,0,"",100
+"Uttarakhand","5","Champawat","48","Champawat","376","Suyal Khark","22764","Punabe","53782",true,"Community Soak/Leach/Magic Pits",1,0,0,"",100
+"West Bengal","19","South 24 Parganas","304","Baruipur","2745","Shikharbali-Ii","107994","Kundarali","333922",true,"Community Soak/Leach/Magic Pits",17,0,0,"",100
+"Uttarakhand","5","Pauri Garhwal","52","Dwarikhal","401","Amaldu","24231","Amaldu","48285",true,"Drainage facility available in village",2,0,0,"",""
+"Bihar","10","Vaishali","224","Sahdei Buzurg","2151","Salha","101937","Pohiar Urf Rasulpur Wahid","236069",false,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Lucknow","162","Gosaiganj","1331","Bhatthi Barkat Nagar","75484","Bhatti Barkat Nagar","143615",true,"Community Grey Water Management Systems",2,0,0,0,25.54
+"Bihar","10","Aurangabad","189","Goh","1637","Goh","93930","Goh","252894",true,"Drainage facility available in village",60,0,6,"",""
+"Haryana","6","Yamunanagar","76","Bilaspur","560","Chhajju Nagla","33181","Chhajju Nagala (376)","57663",true,"Community Grey Water Management Systems",1,0,0,0,1.86
+"Chhattisgarh","22","Mohla-Manpur-Ambagarh Chouki","761","A.Chowki (Td)","3708","Vicharpur","129811","Bicharpur","441686",true,"Drainage facility available in village",8,0,0,"",""
+"Rajasthan","8","Hanumangarh","101","Bhadra","681","Biran (5 Ams)","37976","2 Ams","68861",true,"Community Soak/Leach/Magic Pits",1,0,0,"",38.46
+"Jharkhand","20","Bokaro","322","Peterwar","3071","Bundu","111356","Gagi","362443",true,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Saharanpur","177","Gangoh","1492","Radaur","85140","Radaur","110015",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Gonda","147","Mankapur","1161","Maheva Nankar","65458","Dulahia Nankar","175545",true,"Community Soak/Leach/Magic Pits",2,0,1,"",5.75
+"Bihar","10","Saran","218","Dariapur","2062","Khanpur","100577","Purdilpur","234192",false,"Drainage facility available in village",1,0,0,"",""
+"West Bengal","19","Purba Bardhaman","306","Ketugram_I","2813","Pandugram","108633","Mitratikuri","319230",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Punjab","3","Ludhiana","36","Machhiwara","298","Garhi Tarkahana","16698","Garhi Tarkhana (79)","33090",true,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Basti","131","Paras Rampur","982","Narayanpur","54363","Lachhimanpur Bidhya Singh","178984",true,"Community Grey Water Management Systems",1,0,0,0,83.67
+"Haryana","6","Rewari","72","Nahar","539","Khurshid Nagar","32262","Khursid Nagar (174)","62342",true,"Community Soak/Leach/Magic Pits",10,0,0,"",49.18
+"Sikkim","11","Namchi","227","Temi","6524","Barnayak Tokal","254715","Tokal","261178",true,"Drainage facility available in village",1,0,0,"",""
+"Madhya Pradesh","23","Sagar","425","Rahatgarh","3970","Kituwa (P)","148006","Kakruwa","460477",true,"Drainage facility available in village",1,0,0,"",""
+"Madhya Pradesh","23","Bhind","395","Bhind","3772","Bajhayee","133895","Bajhai","453008",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Jharkhand","20","West Singhbhum","343","Tantnagar","3274","Tantnagar","115537","Lowa Laudu","378134",false,"Drainage facility available in village",1,0,0,"",""
+"Odisha","21","Koraput","363","Kundura","3473","Asana","119828","Dhuruguda","429158",true,"Community Soak/Leach/Magic Pits",4,0,0,"",71.17
+"Uttar Pradesh","9","Rampur","176","Shahabad","1488","Bhopatpur","84737","Bhopatpur","117243",true,"Community Grey Water Management Systems",4,0,0,0,99.06
+"Maharashtra","27","Bhandara","471","Tumsar","4338","Aambagad","172399","Dawezari(Mitewani)","536747",true,"Drainage facility available in village",1,0,0,"",""
+"Madhya Pradesh","23","Betul","394","Chicholi","3766","Asadi","133542","Khairi","485771",true,"Drainage facility available in village",1,0,0,"",""
+"Maharashtra","27","Amravati","468","Dhamangaon Ril","4306","Wirul Ronghe","169905","Virul Ronghe","533303",true,"Drainage facility available in village",6,0,0,"",""
+"Maharashtra","27","Ratnagiri","492","Guhagar","4542","Visapur","187750","Visapur","565382",true,"Community Soak/Leach/Magic Pits",5,0,0,"",66.1
+"Uttar Pradesh","9","Firozabad","143","Narkhi","1122","Jondhri","63093","Jondhri","125483",true,"Drainage facility available in village",5,0,0,"",""
+"Telangana","36","Karimnagar","508","Ganneruvaram","7205","Kasimpeta","200948","Kashimpet","572497",true,"Community Soak/Leach/Magic Pits",1,7,0,"",3.72
+"West Bengal","19","Dakshin Dinajpur","310","Tapan","2877","Ramchandrapur","109245","Sahapara","311400",true,"Community Soak/Leach/Magic Pits",6,0,0,"",78.03
+"Madhya Pradesh","23","Ratlam","423","Jaora","3950","Gargariya","146441","Thadoda","470197",true,"Community Grey Water Management Systems",1,0,0,0,26.32
+"Punjab","3","Patiala","41","Sanour","331","Suniar Heri","19293","Saniar Heri (141)","36553",true,"Community Grey Water Management Systems",2,0,0,0,100
+"Bihar","10","Nalanda","209","Silao","1912","Nirpur","98270","Taju Bigha","245071",true,"Community Soak/Leach/Magic Pits",1,0,0,"",100
+"Assam","18","Karbi Anglong","292","Lumbajong","2621","Lumbajong","257815","Longki Teron","296539",true,"Community Grey Water Management Systems",1,0,0,0,55
+"Uttar Pradesh","9","Moradabad","171","Bilari","1416","Niyamatpur","80286","Nematpur","115513",true,"Community Soak/Leach/Magic Pits",1,0,0,"",97.84
+"Maharashtra","27","Bhandara","471","Sakoli","4337","Girola","172346","Girola","537139",true,"Drainage facility available in village",3,0,0,"",""
+"Himachal Pradesh","2","Chamba","16","Bhatiyat","138","Chuhan","7672","Mihnu (36)","7361",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Odisha","21","Baleshwar","346","Simulia","3308","Abjhuna","116294","Somanathpur","394259",true,"Community Soak/Leach/Magic Pits",3,0,0,"",100
+"Odisha","21","Ganjam","354","Bhanjanagar","3367","Lembhai","117650","Lembhai","410299",true,"Community Soak/Leach/Magic Pits",8,0,0,"",100
+"Karnataka","29","Chamarajanagar","531","Gundlupet","5799","Chikati","216722","Thondavadi","619449",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Meghalaya","17","West Jaintia Hills","275","Thadlaskein","2467","Bamkamar","288198","Bamkamar","279110",true,"Drainage facility available in village",0,0,0,"",""
+"Jharkhand","20","Gumla","331","Ghaghra","3156","Dirgaon","113269","Saraidih","375523",true,"Community Grey Water Management Systems",1,0,0,0,31.58
+"Rajasthan","8","Baran","89","Shahbad","602","Beer Khera Dang","34848","Nayagaon","103229",true,"Community Soak/Leach/Magic Pits",1,0,0,"",100
+"Tamil Nadu","33","Cuddalore","570","Annagramam","6120","Melkavarapattu","222340","Melkavarapattu","636542",true,"Community Soak/Leach/Magic Pits",5,7,0,"",16.97
+"Maharashtra","27","Dhule","474","Sakri","4368","Nandwan","174418","Nandwan","526326",true,"Community Soak/Leach/Magic Pits",1,0,0,"",36.76
+"Odisha","21","Kandhamala","359","Kotagarh","3428","Ranipanga","275129","Ranipanga","417145",true,"Drainage facility available in village",1,0,0,"",""
+"Bihar","10","Gaya","196","Imamganj","1744","Chhakar Bandha","95611","Kendua","256085",false,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Hardoi","150","Sursa","1211","Sikanderpur","68439","Barbatapur","140225",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Amroha","154","Gajraula","1254","Sihali Mev Must","265165","Sihalimev Must.","117675",true,"Community Soak/Leach/Magic Pits",1,0,0,"",99.38
+"Uttarakhand","5","Tehri Garhwal","55","Bhilangna","425","Bhald Gaon","243228","Kail Bagi","42838",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"West Bengal","19","Paschim Medinipur","318","Salbani","2999","Shatpati","110503","Shankarbandh","338779",true,"Drainage facility available in village",1,0,0,"",""
+"Odisha","21","Gajapati","353","Gumma","3358","Bhubani","117461","Kulpat","414406",true,"Drainage facility available in village",1,0,0,"",""
+"Rajasthan","8","Udaipur","117","Nayagaon","7386","Jhajhri","294209","Bhagorwara","107796",false,"Community Soak/Leach/Magic Pits",3,0,0,"",100
+"Chhattisgarh","22","Narayanpur","637","Narayanpur","3600","Bakulwahi","122300","Bakulwahi","449714",true,"Community Soak/Leach/Magic Pits",30,0,0,"",100
+"Odisha","21","Baragada","347","Barpali","3313","Remta","116412","Dhirpur","380444",true,"Drainage facility available in village",4,0,0,"",""
+"Madhya Pradesh","23","Indore","410","Mhow","3864","Kalakund(Gunjara)","140313","Gunjara","476525",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Prayagraj","120","Karchhana","837","Piparawan Ta. Panasa","44760","Bhatauli","162439",true,"Community Grey Water Management Systems",1,0,0,0,21.74
+"Uttar Pradesh","9","Bulandshahr","134","Pahasu","1028","Pandrawal","57368","Pandrawal","121449",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Punjab","3","Gurdaspur","32","Dhariwal","254","Bazid Chak","12796","Bazid Chak (466)","28318",true,"Community Grey Water Management Systems",1,0,0,0,82.28
+"Maharashtra","27","Latur","481","Chakur","4433","Naigaon","179479","Naigaon","560489",true,"Drainage facility available in village",1,0,0,"",""
+"Odisha","21","Dhenkanal","352","Parjang","3356","Kalada","117420","Kalada","402243",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Sonbhadra","184","Robertsganj","1576","Barwan","90649","Deogarh","213412",true,"Drainage facility available in village",2,0,0,"",""
+"Uttar Pradesh","9","Rae Bareli","175","Shivgarh","1480","Pindauli","84221","Mawaiya","143855",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Karnataka","29","Chitradurga","533","Hosdurga","5813","Ballalasamudra","217152","Kalkere","605950",true,"Drainage facility available in village",0,0,0,"",""
+"Jharkhand","20","Deoghar","324","Sarath","3088","Jhiluwa","111682","Baratanr","355206",true,"Community Soak/Leach/Magic Pits",1,0,0,"",18.18
+"Uttar Pradesh","9","Rae Bareli","175","Mahrajganj","1474","Ghurauna","83895","Ramgaon","143931",true,"Community Soak/Leach/Magic Pits",7,0,0,"",100
+"Madhya Pradesh","23","Chhindwara","399","Pandhurna","3796","Chatwa","135703","Chatwa","495534",false,"Community Grey Water Management Systems",0,0,0,0,0
+"Punjab","3","Gurdaspur","32","Dera Baba Nanak","253","Mansoor Kalan","12998","Mansoor (493)","28988",true,"Drainage facility available in village",1,0,0,"",""
+"Himachal Pradesh","2","Kangra","18","Dehra","153","Tihri","8310","Ghamir Lahr","10868",false,"Community Grey Water Management Systems",0,0,0,0,0
+"Maharashtra","27","Sindhudurg","495","Dodamarg","4571","Kolzar","190541","Kolzar","566928",true,"Drainage facility available in village",0,0,0,"",""
+"Tamil Nadu","33","Sivaganga","585","Sivaganga","6317","Kottagudi Kilpatti","228258","Kottagudi Kilpatti","640272",true,"Drainage facility available in village",2,0,0,"",""
+"Assam","18","Karimganj","293","Ramkrishna Nagar","2632","Nayatilla","106920","Padmarpar","300720",false,"Drainage facility available in village",1,0,0,"",""
+"Uttarakhand","5","Haridwar","50","Bhagwanpur","386","Rohalki Dayalpur","23389","Ruhalki Dayalpur","56356",true,"Drainage facility available in village",1,0,0,"",""
+"West Bengal","19","South 24 Parganas","304","Baruipur","2745","Madarat","107986","Baruipur (P) (Ct)","334016",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Kerala","32","Idukki","556","Thodupuzha","5983","Purapuzha","221175","Purapuzha","628094",true,"Drainage facility available in village",1,1,0,"",""
+"Uttar Pradesh","9","Amroha","154","Gangeshwari","1255","Rukhalu","238842","Rukhalu","118429",true,"Drainage facility available in village",17,0,1,"",""
+"Arunachal Pradesh","12","East Kameng","231","Bana","7071","Kamrung","298302","Kamrung(Neping)","261979",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"West Bengal","19","Purba Medinipur","317","Patashpur-I","2965","Naipur","110171","Bhadua","344960",false,"Community Soak/Leach/Magic Pits",1,0,0,"",18.72
+"Uttar Pradesh","9","Budaun","133","Islamnagar","1005","Muhabbey Alipur Chicheta","56081","Muhabbey Alipur Chicheta","127576",true,"Community Grey Water Management Systems",1,0,0,0,73.1
+"Uttar Pradesh","9","Kasganj","633","Ganj Dundwara","1066","Ulai Khera","59766","Rafatpur Dulai","215707",true,"Community Grey Water Management Systems",1,0,0,0,100
+"Himachal Pradesh","2","Chamba","16","Salooni","143","Kandhwara","7873","Billa (268)","7183",true,"Drainage facility available in village",1,0,0,"",""
+"Odisha","21","Rayagada","370","Muniguda","3554","Muniguda","121217","Muniguda","424970",true,"Drainage facility available in village",1,0,0,"",""
+"Maharashtra","27","Dharashiv","488","Dharashiv","4498","Samudrawani","184316","Samudrawani","561411",true,"Drainage facility available in village",2,0,0,"",""
+"Uttar Pradesh","9","Pilibhit","173","Puranpur","1445","Shahbajpur","82288","Bhagwantpur T. Ghunchai","132496",true,"Community Soak/Leach/Magic Pits",2,0,0,"",100
+"Assam","18","Dhemaji","284","Dhemaji","2546","Chamarjan","106060","Tenga Pur No.2","288624",false,"Community Grey Water Management Systems",4,0,0,0,100
+"Bihar","10","Gopalganj","197","Kuchaikote","1763","Bikrampur","95906","Saunhi Erazi","230341",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Bihar","10","Darbhanga","195","Keotirunway","1725","Majhigama","95339","Bhojpatti","226880",false,"Community Soak/Leach/Magic Pits",1,0,0,"",100
+"Telangana","36","Nirmal","680","Nirmal Rural","7336","Thamsa","289451","Thamsa","570350",true,"Community Soak/Leach/Magic Pits",1,3,0,"",63.29
+"West Bengal","19","Paschim Medinipur","318","Mohanpur","2994","Shialsai","110441","Barasahapur","344055",true,"Drainage facility available in village",1,0,2,"",""
+"Rajasthan","8","Jhalawar","105","Manoharthana","711","Kher Khera","39251","Prathipura","104708",true,"Community Soak/Leach/Magic Pits",3,0,0,"",100
+"Himachal Pradesh","2","Mandi","22","Chauntra","177","Tikari Mushera","9269","Tikri Mushehra (54)","13240",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Rajasthan","8","Udaipur","117","Mavli","800","Namri","42617","Suwawaton Ka Gurha","105515",false,"Drainage facility available in village",2,0,0,"",""
+"Uttar Pradesh","9","Prayagraj","120","Meja","843","Nevariya","45188","Nevariya","163242",true,"Community Grey Water Management Systems",1,0,0,0,16.63
+"Odisha","21","Baleshwar","346","Oupada","3306","Baunsabania","116257","Tanaka","393188",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Firozabad","143","Shikohabad","1123","Hariha","63152","Rahal","126025",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Maharashtra","27","Amravati","468","Anjangaon S","4300","Chausala","169524","Chausala","531778",true,"Drainage facility available in village",5,0,0,"",""
+"Odisha","21","Anugola","344","Kishorenagar","3281","Sanjamura","115710","Balaramapadar","404763",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Gujarat","24","Devbhumi Dwarka","674","Khambhalia","4129","Manza","159162","Manza","513538",true,"Drainage facility available in village",0,0,0,"",""
+"Rajasthan","8","Khairthal-Tijara","770","Tijara","586","Mithiyawas","262828","Dholipahadi","72271",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Maharashtra","27","Kolhapur","480","Hatkanangale","4424","Shiroli Pulachi","178649","Shiroli","567295",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Andhra Pradesh","28","Ntr","749","Vatsavai","5143","Machineni Palem","203789","Machinenipalem","588830",true,"Drainage facility available in village",2,0,0,"",""
+"Madhya Pradesh","23","Balaghat","392","Lanji","3751","Khursitola","132676","Bodaldalkha","498626",true,"Community Soak/Leach/Magic Pits",2,0,0,"",3.7
+"Madhya Pradesh","23","Shahdol","429","Gohparu","3997","Kanwahi","150303","Khairi","501554",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Jammu And Kashmir","1","Baramulla","3","Sangrama","7016","Manzseer","241954","Seer Jagir","2214",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Madhya Pradesh","23","Ujjain","435","Tarana","4037","Limboda Tarana","153558","Yeshwantnagar","471762",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Gorakhpur","148","Bansgaon","1169","Sahdodad","65981","Sahdodad","186288",true,"Community Grey Water Management Systems",1,0,0,0,97.65
+"Jharkhand","20","East Singhbum","327","Bahragora","3108","Gopalpur","112254","Jamsola","364846",false,"Drainage facility available in village",0,0,0,"",""
+"Uttar Pradesh","9","Balrampur","127","Pachpedwa","929","Naavdeeh","269282","Naw Deeh","173687",true,"Community Soak/Leach/Magic Pits",1,0,0,"",5.43
+"Jharkhand","20","Chatra","323","Giddhor","3073","Bariatu","111395","Jamua","349257",true,"Community Grey Water Management Systems",1,0,0,0,48
+"Madhya Pradesh","23","Ratlam","423","Sailana","3953","Kunda","146667","Chhayani","470521",true,"Drainage facility available in village",1,0,0,"",""
+"Jharkhand","20","Bokaro","322","Chandankiyari","3065","Kalikapur","111173","Shankhakunri","362725",true,"Drainage facility available in village",1,0,0,"",""
+"Uttarakhand","5","Tehri Garhwal","55","Deoprayag","427","Nagchaund","26478","Lawethi","43050",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Madhya Pradesh","23","Chhindwara","399","Tamia","3799","Dhoonsawani","135932","Dhusawani","493772",true,"Drainage facility available in village",3,0,0,"",""
+"Jharkhand","20","Deoghar","324","Devipur","3083","Jhhumarbad","111559","Gajrajpur","354367",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Bihar","10","Gopalganj","197","Kataiya","1762","Bheriya","95890","Pahladwa","229828",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Karnataka","29","Shivamogga","547","Sorab","5903","Duguru","272956","Amachi","607637",true,"Drainage facility available in village",2,0,0,"",""
+"Jharkhand","20","Ramgarh","607","Mandu","3172","Ara North","113599","Ara North","369094",true,"Community Soak/Leach/Magic Pits",1,15,0,"",2.72
+"Jharkhand","20","Godda","330","Pathargama","3147","Sonarchak","113137","Joginpahari","356885",false,"Community Soak/Leach/Magic Pits",1,0,0,"",46.15
+"Andhra Pradesh","28","West Godavari","523","Penumantra","5741","Polamuru","214942","Polamuru","588643",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Uttar Pradesh","9","Moradabad","171","Dilari","1418","Gularia Mafi","80555","Gularia Mafi","114725",true,"Drainage facility available in village",6,0,0,"",""
+"Telangana","36","Nagarkurnool","694","Peddakothapalle","5254","Chinnakothapally","205840","Chinna Kothapally","909664",true,"Drainage facility available in village",2,0,0,"",""
+"Meghalaya","17","South West Khasi Hills","658","Ranikor","2488","Raibah","286352","Raibah","277189",true,"Drainage facility available in village",0,0,0,"",""
+"Madhya Pradesh","23","Raisen","421","Begamganj","3936","Dhawaj","145256","Jamuniya Talluka Mahuakheda","484106",true,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Basti","131","Harraiya","979","Nadayen","54147","Atava","179642",true,"Drainage facility available in village",1,0,0,"",""
+"Rajasthan","8","Jaisalmer","103","Bhaniyana","7449","Manasar","38816","Rawatpura","86453",true,"Community Soak/Leach/Magic Pits",2,0,0,"",9.26
+"Uttar Pradesh","9","Azamgarh","123","Mohammadpur","878","Muzaffarpur","271892","Muzaffarpur","195754",true,"Community Soak/Leach/Magic Pits",1,0,0,"",21.01
+"West Bengal","19","Birbhum","307","Nalhati-I","2837","Banior","108849","Madna","316160",true,"Community Soak/Leach/Magic Pits",1,0,0,"",54.17
+"Assam","18","Dibrugarh","286","Khowang","2565","Rangchali","106279","Ghuraghas No.3","291884",false,"Community Grey Water Management Systems",1,0,0,0,94.94
+"Bihar","10","Gopalganj","197","Barauli","1757","Sadaua","95812","Kalyanpur Mathia","231074",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttarakhand","5","Dehradun","49","Kalsi","381","Panjiya","23104","Chapanu","44921",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Odisha","21","Malkangiri","364","Malkangiri","3484","Tandiki","119979","Tongoguda","430225",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Jharkhand","20","Palamu","338","Chainpur","3205","Awsane","114292","Duba","366841",true,"Drainage facility available in village",1,0,0,"",""
+"Uttarakhand","5","Almora","45","Bhikiyasain","353","Bajan","20655","Badhann","51648",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Karnataka","29","Chitradurga","533","Chitradurga","5810","Hullur","217067","Kurubarahalli","605557",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Andhra Pradesh","28","Prakasam","517","Konakanamittla","5475","Katragunta","235382","Katragunta(022 )","590944",false,"Drainage facility available in village",2,0,0,"",""
+"Tamil Nadu","33","Krishnagiri","577","Thally","6212","Anchetti","225004","Anchetty","644087",true,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Lucknow","162","Sarojaninagar","1336","Pyarepur","75833","Pyare Pur","143471",true,"Community Grey Water Management Systems",1,0,0,0,0.22
+"Madhya Pradesh","23","Mandla","415","Narayanganj","3907","Bablia","143043","Dargarh","492499",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Jharkhand","20","Jamtara","333","Narayanpur","3180","Bandarchua","113846","Nainamarni","372253",true,"Community Soak/Leach/Magic Pits",1,0,0,"",6.45
+"Himachal Pradesh","2","Una","26","Amb","205","Dussara","10329","Up Mahal Dhusara Doyam (437)","18346",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Odisha","21","Kandhamala","359","Phulbani","3430","Dadaki","118979","Dadaki","415443",true,"Drainage facility available in village",1,0,0,"",""
+"Rajasthan","8","Dausa","97","Sikandara","7439","Kailai","37231","Girdharpura","78332",true,"Community Soak/Leach/Magic Pits",2,0,0,"",100
+"Uttar Pradesh","9","Azamgarh","123","Bilariyaganj","869","Bhaluwai","47103","Bhaluwai","192932",true,"Community Soak/Leach/Magic Pits",4,0,0,"",6.42
+"Uttarakhand","5","Uttarkashi","57","Dunda","443","Bhatwari(Dhanari)","27508","Kuleth","40523",true,"Community Soak/Leach/Magic Pits",2,0,0,"",76.92
+"Chhattisgarh","22","Korba","383","Katghora","3670","Rall","126894","Ral","435857",true,"Community Soak/Leach/Magic Pits",15,0,0,"",56.81
+"Madhya Pradesh","23","Chhindwara","399","Pandhurna","3796","Lendagondi","135729","Malapur","495649",false,"Community Soak/Leach/Magic Pits",6,0,0,"",100
+"Uttar Pradesh","9","Chitrakoot","136","Karwi","1042","Dhorahi Mafi","58251","Lyonjha","155475",true,"Drainage facility available in village",2,0,0,"",""
+"Bihar","10","Gaya","196","Tankuppa","1753","Aropur","95721","Pathra","256657",true,"Drainage facility available in village",1,0,0,"",""
+"Maharashtra","27","Nashik","487","Malegaon","4485","Dahidi","183166","Dahidi","550183",true,"Drainage facility available in village",2,0,1,"",""
+"Uttar Pradesh","9","Ayodhya","140","Tarun","1095","Gayaspur","61368","Dilippur","166764",true,"Drainage facility available in village",0,0,0,"",""
+"Haryana","6","Kurukshetra","68","Babain","517","Berthla","31133","Berthla (124)","58612",true,"Community Grey Water Management Systems",0,0,0,0,0
+"West Bengal","19","North 24 Parganas","303","Bongaon","2732","Chhaighoria","107858","Haridaspur","322562",true,"Drainage facility available in village",1,0,1,"",""
+"Chhattisgarh","22","Balod","646","Gunderdehi","3636","Bhathagaon ®","124606","Bhatgaon","442899",false,"Drainage facility available in village",1,0,0,"",""
+"Haryana","6","Jhajjar","64","Jhajjar","495","Ukhalchana","30135","Ukhal Chana(264)","61829",true,"Community Grey Water Management Systems",1,0,0,0,90.16
+"Uttar Pradesh","9","Rampur","176","Suar","1489","Bamna","84833","Mehndi Nagar","116416",true,"Drainage facility available in village",15,0,0,"",""
+"Maharashtra","27","Yavatmal","500","Maregaon","4626","Godhani","194284","Godhani","543807",true,"Drainage facility available in village",1,0,0,"",""
+"Gujarat","24","Amreli","439","Lathi","4067","Tajpar","155327","Tajpar","515506",true,"Community Grey Water Management Systems",0,0,0,0,0
+"West Bengal","19","Uttar Dinajpur","311","Islampur","2882","Panditpota-Ii","109296","Phulhar","309030",true,"Community Soak/Leach/Magic Pits",1,0,0,"",100
+"Madhya Pradesh","23","Bhind","395","Mehgaon","3775","Semra","134192","Madanpura","453175",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Maharashtra","27","Jalgaon","478","Dharangaon","4402","Zurkheda","176806","Zurkheda","527333",true,"Community Soak/Leach/Magic Pits",1,0,0,"",85.6
+"Assam","18","Cachar","282","Kalain","2512","Bhairabpur","105826","Bhairabpur Pt Ii","299049",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Andhra Pradesh","28","Chittoor","503","Venkatagirikota","4810","V.Kota","198040","Papepalle","596786",true,"Drainage facility available in village",2,0,0,"",""
+"Karnataka","29","Kolar","542","Kolar","5870","Beglihosahalli","218927","Begli","622038",true,"Drainage facility available in village",0,0,0,"",""
+"Maharashtra","27","Latur","481","Ausa","4432","Ekambi","179346","Yekambiwadi","560677",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Rajasthan","8","Hanumangarh","101","Rawatsar","6617","6-7 Dwd","294659","11 Dwd","68414",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Odisha","21","Kalahandi","358","Jayapatna","3412","Dhansuli","118677","Bhalujore","424221",true,"Drainage facility available in village",0,0,0,"",""
+"Jharkhand","20","Giridih","329","Bengabad","3132","Golgo","112700","Makho","351610",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Odisha","21","Bhadrak","348","Bhandaripokhari","3324","Sarsada","116660","Kurikana","394544",true,"Drainage facility available in village",1,0,0,"",""
+"West Bengal","19","Dakshin Dinajpur","310","Bansihari","2871","Mahabari","109197","Khidirpur","311734",true,"Community Soak/Leach/Magic Pits",23,0,0,"",100
+"Assam","18","Karimganj","293","Ramkrishna Nagar","2632","Gamaria","106914","Srirampur","300863",false,"Drainage facility available in village",1,0,0,"",""
+"Karnataka","29","Tumakuru","548","Tumakuru","5913","Ariyuru","220352","Samudranahalli","611469",true,"Drainage facility available in village",0,0,0,"",""
+"Rajasthan","8","Chittorgarh","95","Chittorgarh","647","Keljer","36586","Mewasa","100713",true,"Drainage facility available in village",1,0,0,"",""
+"West Bengal","19","Paschim Medinipur","318","Sabang","2998","Sabang","110492","Sauta","342830",true,"Community Soak/Leach/Magic Pits",3,0,0,"",100
+"Gujarat","24","Mahisagar","669","Balasinor","4156","Saroda","160609","Saroda","517346",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Kheri","159","Ramia Behar","1308","Dulhi","74028","Dulhi","136545",true,"Community Soak/Leach/Magic Pits",320,0,4,"",100
+"Bihar","10","Bhagalpur","192","Sultanganj","1688","Kheraihiya","94730","Pipra Barhampur","239715",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Gujarat","24","Banas Kantha","441","Deodar","4084","Makhanu","156129","Makhana","508388",false,"Community Soak/Leach/Magic Pits",14,0,0,"",30.08
+"Madhya Pradesh","23","Jabalpur","411","Panagar","3869","Kushner","140698","Kusner","490107",true,"Drainage facility available in village",3,0,0,"",""
+"Uttar Pradesh","9","Saharanpur","177","Sarsawan","1500","Kheda Mawat","85646","Khera Mawat","109532",true,"Drainage facility available in village",1,0,0,"",""
+"Chhattisgarh","22","Sukma","642","Konta","3621","Dabbakonta","123571","Kolaiguda","450372",true,"Drainage facility available in village",0,0,0,"",""
+"Maharashtra","27","Nanded","485","Hadgaon","4462","Gargavan","181129","Gargavhan","544523",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Karnataka","29","Kodagu","541","Somvarpet","5862","Kirgandur","218708","Kiragandur","617931",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Andhra Pradesh","28","Kurnool","511","Adoni","5149","Kapati","203877","Kapati","594086",true,"Drainage facility available in village",1,0,0,"",""
+"Madhya Pradesh","23","Sagar","425","Sagar","3972","Belai Mafi (P)","148147","Dhudoniya","460649",true,"Community Soak/Leach/Magic Pits",2,0,0,"",100
+"West Bengal","19","Malda","316","Gazole","2936","Karkach","109896","Sonadanga","312615",true,"Community Soak/Leach/Magic Pits",2,0,0,"",100
+"Assam","18","Karbi Anglong","292","Samelangso","2625","Karkanthi","257811","Lunse Timung (297213)","297213",false,"Drainage facility available in village",1,0,0,"",""
+"West Bengal","19","Paschim Medinipur","318","Kharagpur-I","2991","Kalaikunda","110417","Basantapur","341539",true,"Community Soak/Leach/Magic Pits",5,0,0,"",26.72
+"Madhya Pradesh","23","Alirajpur","639","Katthiwada","3877","Baij","141171","Nanibar","505137",true,"Drainage facility available in village",0,0,0,"",""
+"Madhya Pradesh","23","Rajgarh","422","Narsinghgarh","3944","Chatha","145874","Chor Khedi","480194",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Karnataka","29","Koppal","543","Koppal","5876","Munirabad Dam","219140","Holemudlapur","601859",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Odisha","21","Jagatsinghapur","355","Jagatsinghpur","3389","Ayar","118119","Ayara","397844",true,"Drainage facility available in village",1,0,0,"",""
+"Punjab","3","Hoshiarpur","33","Bhunga","267","Nangal Ghorewaha","13589","Nangal Ghorewaha (437)","31376",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Karnataka","29","Tumakuru","548","Tiptur","5912","Baluvaneralu","220326","Rudrapura","611963",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Bihar","10","Nawada","210","Akbarpur","1914","Baksanda","98281","Paharpur","257978",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Maharashtra","27","Gadchiroli","475","Mulchera","4381","Chutugunta","175132","Jamgaon","539816",true,"Community Soak/Leach/Magic Pits",1,0,0,"",25.61
+"Uttar Pradesh","9","Varanasi","187","Sevapuri","1623","Madaiya","93606","Birampur","209141",true,"Drainage facility available in village",0,0,0,"",""
+"Rajasthan","8","Jhalawar","105","Pirawa (Sunel)","712","Govindpura","39287","Suwa Sara","105140",true,"Drainage facility available in village",1,0,0,"",""
+"Gujarat","24","Morbi","673","Wankaner","4218","Vinaygadh/Vithalgath","164258","Vinaygadh","512837",true,"Drainage facility available in village",2,0,0,"",""
+"Madhya Pradesh","23","Shajapur","430","Shujalpur","4006","Nishana","150977","Sabuddi Kheda","473090",true,"Community Soak/Leach/Magic Pits",1,0,0,"",100
+"Uttar Pradesh","9","Balrampur","127","Utraula","933","Tendua Takia","51132","Tikuia","173914",true,"Drainage facility available in village",4,0,0,"",""
+"Maharashtra","27","Satara","494","Khatav","4562","Shenavadi","189524","Shenawadi","563604",true,"Drainage facility available in village",1,0,0,"",""
+"Haryana","6","Sirsa","74","Nathusari Chopta","549","Chadiwal","32652","Chadiwal(46)","60708",true,"Community Grey Water Management Systems",2,0,0,0,100
+"Gujarat","24","Bharuch","442","Jambusar","4095","Islampore","156862","Islampore","521944",true,"Community Soak/Leach/Magic Pits",7,0,0,"",100
+"Rajasthan","8","Alwar","87","Kathumar","576","Khonkhar","33949","Dughati","73812",true,"Community Grey Water Management Systems",1,0,0,0,100
+"Himachal Pradesh","2","Solan","25","Kandaghat","201","Kot","10165","Rugta (77)","22322",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Telangana","36","Siddipet","692","Siddipet Rural","5306","Irkode","206950","Irkode","572990",true,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Siddharthnagar","182","Bhanwapur","1538","Pratappur","274019","Pratap Pur","177666",true,"Drainage facility available in village",9,0,0,"",""
+"Karnataka","29","Tumakuru","548","Gubbi","5906","Thyagattur","220156","Adalagere","611765",true,"Community Grey Water Management Systems",0,0,0,0,0
+"West Bengal","19","Paschim Medinipur","318","Keshpur","2990","Enayetpur","110402","Pakurya","338602",true,"Drainage facility available in village",4,0,0,"",""
+"Madhya Pradesh","23","Dewas","402","Bagli","3810","Semlibuzurg","136817","Mankundi","474113",true,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Jaunpur","152","Dharma Pur","1226","Samopur Kala","69413","Kakapur","202163",true,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Meerut","169","Mawana Kalan","1393","Sakoti","79114","Sakoti","118736",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Karnataka","29","Mandya","544","Nagamangala","5883","Gondenahalli","219376","Halladahosahalli","613777",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Madhya Pradesh","23","Ashoknagar","391","Ashoknagar","3740","Khiriyaguhas","131865","Khiriya Gohab","500386",true,"Community Soak/Leach/Magic Pits",6,0,0,"",100
+"Uttar Pradesh","9","Ambedkar Nagar","121","Jahangir Ganj","854","Bairi Bujurg","45973","Baire Bujurg","167575",true,"Community Soak/Leach/Magic Pits",4,0,0,"",47.14
+"Maharashtra","27","Nashik","487","Yeola","4493","Khairgavhan","183909","Tandulwadi","551472",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Meghalaya","17","Eastern West Khasi Hills","740","Mairang","2483","Mawpyrdoi","286209","Mawpyrdoi","277046",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Mirzapur","170","Hallia","1401","Mawai Kala","79479","Majhiyar","211947",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Kushinagar","160","Seorahi","1319","Misrauli","74771","Mishrauli Le.Chhe.","189693",true,"Community Soak/Leach/Magic Pits",2,0,0,"",100
+"Uttar Pradesh","9","Kasganj","633","Sahawar","1073","Johari","60123","Johri","215680",true,"Community Grey Water Management Systems",1,0,0,0,96.62
+"Rajasthan","8","Banswara","88","Ghatol","592","Sarondiya","34559","Sarodiya","98438",true,"Community Soak/Leach/Magic Pits",5,0,0,"",100
+"Rajasthan","8","Banswara","88","Ghatol","592","Kanthao","34541","Jhanjhor","98506",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Bihar","10","Gaya","196","Manpur","1747","Shadi Pur","95664","Gangti","255241",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Bihar","10","Purnia","214","Krityanand Nagar","2006","Bela Rikabganj","99652","Baghmara","223459",true,"Community Soak/Leach/Magic Pits",6,0,0,"",100
+"Meghalaya","17","East Khasi Hills","274","Mawryngkneng","2458","Kruin","287530","Kruin","278417",true,"Drainage facility available in village",0,0,0,"",""
+"Himachal Pradesh","2","Hamirpur","17","Bamsan","145","Charian-Di-Dhar","7958","Charian Di Dhar (62/32)","17013",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Karnataka","29","Kolar","542","Srinivaspur","5874","Mastenahalli","219058","Kurubarahalli","621678",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Uttarakhand","5","Almora","45","Bhaisiya Chhana","352","Dungerlekh","20620","Dungar Lekh","52900",true,"Community Soak/Leach/Magic Pits",1,0,0,"",96.18
+"Karnataka","29","Uttara Kannada","550","Yellapur","5928","Kannigeri","220762","Gotguli","602885",true,"Drainage facility available in village",0,0,0,"",""
+"Gujarat","24","Amreli","439","Jafrabad","4064","Lothpur","155187","Lothpur","515890",true,"Community Soak/Leach/Magic Pits",2,0,0,"",9.95
+"Jharkhand","20","Giridih","329","Bagodar","3131","Atka Paschimi","112667","Atka","352482",true,"Drainage facility available in village",1,0,3,"",""
+"Maharashtra","27","Satara","494","Satara","4568","Jihe","190240","Jihe","563918",true,"Community Grey Water Management Systems",1,0,0,0,64.29
+"Maharashtra","27","Nashik","487","Peth","4489","Kopurli (Kh)","183591","Domkhadak","550698",true,"Community Soak/Leach/Magic Pits",2,0,0,"",100
+"Rajasthan","8","Bundi","94","Talera","639","Gamach","36354","Kanan","94483",true,"Drainage facility available in village",4,0,0,"",""
+"Uttar Pradesh","9","Pilibhit","173","Marori","1444","Dioni Kesharpur","267924","Pilibhit Kohna","131396",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Muzaffarnagar","172","Khatauli","1431","Amberpur","81327","Amberpur","111246",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Jammu And Kashmir","1","Budgam","2","Beerwah","15","Kandhama A","241310","Kandhama","492",true,"Drainage facility available in village",3,0,0,"",""
+"Uttar Pradesh","9","Kanpur Dehat","156","Rajpur","1272","Daunliyapur","71870","Simatamau","149863",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Jharkhand","20","Pakur","337","Littipara","3200","Sonadhani","114181","Majhladih","359868",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Odisha","21","Kendrapada","360","Mahakalapada","3438","Petchhela(B.B Colony)","275304","Kochila","397115",true,"Drainage facility available in village",1,0,0,"",""
+"Mizoram","15","Lawngtlai","264","Lawngtlai","2398","Saikah U","294672","Saikah U","271709",false,"Drainage facility available in village",0,0,0,"",""
+"Telangana","36","Nizamabad","516","Jakranpalle","5430","Padkal","209443","Padkal","570894",true,"Drainage facility available in village",2,0,0,"",""
+"Uttar Pradesh","9","Bara Banki","129","Sidhaur","955","Semri","52498","Dherha","165408",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Rajasthan","8","Sirohi","115","Abu Road","781","Awal","41850","Awal","90171",true,"Drainage facility available in village",2,0,0,"",""
+"Madhya Pradesh","23","Rewa","424","Raipur Karchuliyan","3959","Gangahara","147145","Dihiya","467202",true,"Drainage facility available in village",1,0,0,"",""
+"West Bengal","19","Purulia","321","Jhalda-I","3051","Pusti","111018","Hepad","331311",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Mirzapur","170","Patehra","1409","Kuhki","79958","Khanhwar Dubar","212161",true,"Community Soak/Leach/Magic Pits",1,0,0,"",100
+"Mizoram","15","Saitual","727","Phullen","2389","Lailak","264156","Lailak","271216",true,"Community Grey Water Management Systems",0,0,0,0,0
+"West Bengal","19","Bankura","305","Indpur","2780","Raghunathpur","108347","Chhelebad","326725",true,"Community Grey Water Management Systems",1,0,0,0,100
+"Tamil Nadu","33","Pudukkottai","582","Kunnandarkoil","6270","Udaiyalippatti","226880","Udayalipatti","639333",true,"Community Soak/Leach/Magic Pits",2,0,0,"",100
+"Odisha","21","Baleshwar","346","Bahanaga","3298","Gopalpur","116052","Apitira","393828",true,"Drainage facility available in village",1,0,0,"",""
+"Maharashtra","27","Palghar","665","Wada","4603","Khaire-Ambivali","192656","Khaire Ambivali","552177",true,"Community Soak/Leach/Magic Pits",1,0,0,"",93.58
+"Uttar Pradesh","9","Shrawasti","181","Gilaula","1532","Mankaura","87691","Mankaura","172968",true,"Drainage facility available in village",16,0,0,"",""
+"Odisha","21","Balangir","345","Gudvella","3289","Biramunda","115868","Santarakmunda","420492",true,"Community Grey Water Management Systems",0,0,0,0,0
+"West Bengal","19","Paschim Medinipur","318","Keshpur","2990","Jhentla","110405","Alsa Gerya","338535",true,"Community Soak/Leach/Magic Pits",1,0,0,"",47.62
+"Andhra Pradesh","28","Srikakulam","519","Vajrapukotturu","5578","Peddaboddapadu","211644","Peddaboddapadu","580551",true,"Community Grey Water Management Systems",1,0,0,0,20.41
+"Rajasthan","8","Ganganagar","100","Sadulshahar","679","Dharamsinghwala","37904","14 Bnw (Dharamsinghwala)","64705",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Punjab","3","Rupnagar","42","Chamkaur Sahib","333","Phasse","19490","Fatehpur Viran (122)","38813",true,"Community Grey Water Management Systems",1,0,0,0,100
+"Rajasthan","8","Bikaner","93","Khajuwala","6715","Lunkhan","36034","1 Mmwm","69822",true,"Community Soak/Leach/Magic Pits",3,0,0,"",100
+"Assam","18","Hailakandi","289","South Hailakandi","2590","Dholai Bagan","106572","Dholai Molai Pt Xi","301170",true,"Drainage facility available in village",1,0,0,"",""
+"Odisha","21","Koraput","363","Boipariguda","3467","Haladikund","119723","Piladuar","429236",true,"Drainage facility available in village",1,0,0,"",""
+"Madhya Pradesh","23","Rajgarh","422","Rajgarh","3945","Pipalkheda","146058","Dhuakhedi","479616",true,"Drainage facility available in village",0,0,0,"",""
+"Bihar","10","Samastipur","217","Ujiarpur","2056","Lohagir","100453","Malpur","237079",true,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Etah","138","Awagarh","1065","Abdulhaipur","59662","Rasidpur Urf Kheria Khati","215224",true,"Community Soak/Leach/Magic Pits",2,0,0,"",100
+"Tamil Nadu","33","Tiruchirappalli","591","Thottiam","6380","Unniyur","230413","Unniyur","635677",true,"Drainage facility available in village",3,0,0,"",""
+"Rajasthan","8","Chittorgarh","95","Bhainsrorgarh","644","Khati Khera","36518","Gilota","100601",true,"Drainage facility available in village",1,0,1,"",""
+"Bihar","10","Araria","188","Jokihat","1627","Dubba","93732","Duba","222137",true,"Drainage facility available in village",9,0,0,"",""
+"Tamil Nadu","33","Pudukkottai","582","Pudukkottai","6273","Sothupallai","226978","Sothupalai","639397",true,"Community Grey Water Management Systems",2,0,0,0,100
+"Rajasthan","8","Barmer","90","Gudhamalani","6842","Peeprali","35113","Jethani Maccharo Ki Dhani","915652",false,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Andhra Pradesh","28","Parvathipuram Manyam","743","Garugubilli","5634","Kothuru","212637","Kothuru","582128",true,"Community Soak/Leach/Magic Pits",1,0,0,"",16.67
+"Punjab","3","Kapurthala","35","Sultanpur Lodhi","291","Ladwal","16108","Ladwala (116)","29429",true,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Ghazipur","146","Ghazipur","1140","Sonhuliya Urf Bakuliyapur","64063","Sonhuliya Urf Bakuliyapur","205080",true,"Drainage facility available in village",1,0,0,"",""
+"Andhra Pradesh","28","Alluri Sitharama Raju","745","Araku Valley","5585","Siragam","211769","Tokavalasa","584029",false,"Drainage facility available in village",1,0,0,"",""
+"Karnataka","29","Tumakuru","548","Gubbi","5906","Marashettyhalli","220147","B.Ramapura","611864",true,"Drainage facility available in village",0,0,0,"",""
+"Odisha","21","Nabarangpur","366","Kosagumuda","3516","Badambada","120464","Maliatigan","427887",true,"Drainage facility available in village",1,0,0,"",""
+"Assam","18","Biswanath","705","Pub Chaiduar","2712","Sonapur","107663","Rajpur","287342",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Uttar Pradesh","9","Ambedkar Nagar","121","Katehari","856","Lokapur","46198","Ramdass Patti","168129",true,"Drainage facility available in village",4,0,0,"",""
+"Jharkhand","20","Dumka","326","Ranishwar","3105","Taldangal","112194","Kathalia","371081",true,"Community Soak/Leach/Magic Pits",2,0,0,"",93.94
+"Rajasthan","8","Jodhpur","107","Shergarh","729","Kishor Nagar","262468","Urajan Nagar","85160",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Odisha","21","Baragada","347","Jharbandh","3318","Jagdalpur","116506","Khirapali","379839",true,"Community Soak/Leach/Magic Pits",5,0,0,"",59.89
+"Andhra Pradesh","28","Palnadu","751","Chilakaluripet","4932","Yadavalli","200098","Edavalli","590183",true,"Drainage facility available in village",1,0,0,"",""
+"Jharkhand","20","Simdega","342","Jaldega","3256","Patiamba","115270","Kinirkela","376732",true,"Community Grey Water Management Systems",1,0,0,0,4.05
+"Maharashtra","27","Ahilyanagar","466","Karjat","4279","Nandgaon","167819","Nandgaon","558544",true,"Drainage facility available in village",1,0,0,"",""
+"Maharashtra","27","Sindhudurg","495","Vaibhavawadi","4576","Nadhavade","190836","Sardarwadi","566364",true,"Drainage facility available in village",0,0,0,"",""
+"Bihar","10","Saran","218","Garkha","2065","Hasan Pura","100620","Pindari","234366",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Assam","18","Goalpara","287","Dudhnoi","2574","Maj Jakhili","106381","Dabli","282336",true,"Drainage facility available in village",1,0,0,"",""
+"Chhattisgarh","22","Mungeli","647","Mungeli","3611","Karupan","123079","Karupan Alias Bampara","438252",true,"Drainage facility available in village",1,0,0,"",""
+"Odisha","21","Balangir","345","Saintala","3295","Kermeli","115997","Junanimal","421073",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Madhya Pradesh","23","Sagar","425","Deori","3965","Bijaura (P)","147655","Khamra","461537",false,"Drainage facility available in village",1,0,0,"",""
+"Odisha","21","Mayurbhanj","365","Badasahi","3487","Manatri","120053","Gaudgan","390747",true,"Community Soak/Leach/Magic Pits",11,0,0,"",100
+"Andhra Pradesh","28","Bapatla","750","Chinaganjam","5460","Pedaganjam","234644","Pedaganjam","591030",true,"Drainage facility available in village",1,0,0,"",""
+"Odisha","21","Koraput","363","Boipariguda","3467","Chandrapada","119718","Bhejaguda","429264",true,"Drainage facility available in village",3,0,0,"",""
+"Assam","18","Dibrugarh","286","Khowang","2565","Bamunbari Domordolong","106267","Teloikinar Bongali","291888",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Odisha","21","Sundaragada","373","Rajgangpur","3586","Jareikela","121732","Chandiposh","384249",true,"Community Soak/Leach/Magic Pits",1,0,0,"",65.83
+"Jharkhand","20","West Singhbhum","343","Jagannathpur","3265","Patajaint","115411","Bankati","378317",true,"Drainage facility available in village",2,0,0,"",""
+"Karnataka","29","Chikkaballapura","630","Chintamani","5867","Nandiganahalli","218869","Jogyanahalli","624510",true,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Pratapgarh","174","Aspur Deosara","1446","Setapur","82387","Setapur","159491",true,"Drainage facility available in village",4,2,0,"",""
+"Rajasthan","8","Dholpur","98","Saipau","6871","Nidhaira Kalan","37349","Ajaipura","75843",true,"Drainage facility available in village",1,0,0,"",""
+"Jharkhand","20","Chatra","323","Shaligram Ram Narayanpur Alias Hunterganj","3074","Kedli Kala","111416","Nawadih","348253",true,"Community Grey Water Management Systems",0,0,0,0,0
+"West Bengal","19","Bankura","305","Jaypur","2782","Uttarbarh","108366","Baguapara","328139",true,"Community Soak/Leach/Magic Pits",1,0,0,"",100
+"Chhattisgarh","22","Surguja","389","Sitapur","3732","Chalta","131290","Chalta","433449",true,"Community Soak/Leach/Magic Pits",11,6,0,"",100
+"Uttar Pradesh","9","Saharanpur","177","Sarsawan","1500","Saroorpur Gada","85671","Saroorpur Gara","109684",true,"Drainage facility available in village",3,0,0,"",""
+"Rajasthan","8","Hanumangarh","101","Hanumangarh","682","Dholipal","38045","8 Dlp","67598",true,"Community Soak/Leach/Magic Pits",2,0,0,"",100
+"Bihar","10","Purnia","214","Banmankhi","1999","Mahadeo Pur","99538","Mahadeopur","223045",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Andhra Pradesh","28","Vizianagaram","521","Vepada","5655","Athava","213214","Athava","583026",true,"Community Grey Water Management Systems",1,0,0,0,80.56
+"Chhattisgarh","22","Balod","646","Dondilohara","3634","Rengni","124514","Rengani","443131",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Assam","18","Kamrup","291","Chhaygaon Maa Chandika","2606","Chaygaon","106755","Bihdia","302719",true,"Community Grey Water Management Systems",3,0,0,0,100
+"Madhya Pradesh","23","Bhind","395","Gohad","3773","Kalyan Pura","134001","Hadiapura","453364",true,"Drainage facility available in village",0,0,0,"",""
+"Maharashtra","27","Thane","497","Ambernath","4589","Rahatoli","191843","Rahatoli","553051",true,"Community Soak/Leach/Magic Pits",8,0,0,"",64.35
+"Uttar Pradesh","9","Kheri","159","Ramia Behar","1308","Nainapur","74042","Nainapur","136570",true,"Drainage facility available in village",14,0,2,"",""
+"Himachal Pradesh","2","Kangra","18","Nagrota Surian","159","Behi Pathiar","8561","Dhar (126)","9043",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Madhya Pradesh","23","Shivpuri","432","Narwar","4015","Khyavdakala","151620","Panghata","455478",true,"Community Soak/Leach/Magic Pits",1,0,0,"",49.38
+"Bihar","10","Gaya","196","Amas","1732","Amas","95441","Pathra","255807",true,"Community Soak/Leach/Magic Pits",2,0,0,"",100
+"Uttar Pradesh","9","Sonbhadra","184","Chatra","1570","Bhusaulia","90277","Chadapura","213803",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Odisha","21","Mayurbhanj","365","Baripada","3490","Bankisole","120098","Badbrahmanmara","389170",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Andhra Pradesh","28","Anakapalli","744","Munagapaka","5604","Ummalada","235427","Ummalada","586363",true,"Community Grey Water Management Systems",0,0,0,0,0
+"West Bengal","19","Jhargram","703","Jhargram","2988","Radhanagar","110385","Betkundari","339483",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Jammu And Kashmir","1","Baramulla","3","Narwah","7013","Kitchama","241194","Kitchhama","2431",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Karnataka","29","Shivamogga","547","Hosanagara","5899","Yaduru","219902","Yadur","608045",true,"Community Soak/Leach/Magic Pits",1,0,0,"",8.13
+"Uttar Pradesh","9","Saharanpur","177","Nakur","1495","Sahaba Mazra","85353","Kasampur","109705",true,"Community Soak/Leach/Magic Pits",4,0,0,"",100
+"Punjab","3","Sri Muktsar Sahib","39","Sri Muktsar Sahib","317","Chak Hakam Singhwala","17782","Barkandi (63)","35397",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Chhattisgarh","22","Janjgir-Champa","379","Baloda","3643","Madawa","125185","Madwa","436535",true,"Community Soak/Leach/Magic Pits",15,0,0,"",100
+"Haryana","6","Jind","65","Uchana","504","Surbrah","30512","Surbara (99)","60037",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttar Pradesh","9","Farrukhabad","141","Rajepur","1101","Nibiya","267043","Nibiya","146115",true,"Community Soak/Leach/Magic Pits",3,0,0,"",100
+"Uttar Pradesh","9","Moradabad","171","Thakurdwara","1424","Rajoopur Milak","81029","Rajoopur Milak","114585",true,"Drainage facility available in village",6,0,0,"",""
+"Uttar Pradesh","9","Farrukhabad","141","Shamsabad","1102","Jirkhapur","61900","Bakhterapur","145901",true,"Community Soak/Leach/Magic Pits",1,0,0,"",100
+"Uttarakhand","5","Nainital","51","Bhimtal","392","Mangoli","23686","Mangoli","54804",true,"Community Soak/Leach/Magic Pits",1,0,0,"",85.44
+"Karnataka","29","Kolar","542","Mulbagal","5872","Emmenatha","218997","Majara Attikunte","622961",true,"Drainage facility available in village",0,0,0,"",""
+"Uttar Pradesh","9","Gautam Buddha Nagar","144","Bisrakh","1125","Bisahda","63299","Bisahda","120167",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Telangana","36","Jayashankar Bhupalapally","687","Regonda","5699","Venkateshwarlapally","278129","Sulthanpur","578069",false,"Community Grey Water Management Systems",1,0,0,0,0.24
+"Uttar Pradesh","9","Balrampur","127","Harriya Satgharwa","928","Ambar Nagar","50699","Ambar Nagar","173222",true,"Community Soak/Leach/Magic Pits",1,0,0,"",17.44
+"Odisha","21","Baleshwar","346","Basta","3301","Kulida","116125","Jaganathpur","392356",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Madhya Pradesh","23","Panna","420","Shahnagar","3934","Hardua Sarasbahu","145084","Dobha Baghnarwa","459562",true,"Community Soak/Leach/Magic Pits",1,0,0,"",46.67
+"Uttar Pradesh","9","Chitrakoot","136","Pahari","1045","Bakta Bujurg","58443","Khutaura","155575",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Maharashtra","27","Raigad","491","Uran","4539","Bhendkhal","187428","Bhendkhal","553306",true,"Community Soak/Leach/Magic Pits",3,0,0,"",75.5
+"Punjab","3","Ferozepur","31","Zira","250","Kachar Bhann","11829","Kachar Bhan (350)","34359",true,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Bahraich","125","Chitaura","895","Godni Basahi","267055","Godni Basahi","171891",true,"Community Grey Water Management Systems",1,0,0,0,7.32
+"Assam","18","Dima Hasao","299","Diyang Valley","2688","Daotuhaja Mac Area (Part)","0","Langting Shivraipur","298754",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Uttar Pradesh","9","Saharanpur","177","Puwarka","1497","Sambalki Shek","85478","Saragthal Hameed","109292",true,"Community Grey Water Management Systems",1,0,0,0,100
+"Karnataka","29","Tumakuru","548","Gubbi","5906","Shivapura","220155","Settihalli","611652",true,"Drainage facility available in village",1,0,0,"",""
+"Andhra Pradesh","28","Chittoor","503","Gudupalle","4760","Onnappanayanikothur","197042","Thalai Agraharam","596900",true,"Community Soak/Leach/Magic Pits",1,0,0,"",10.26
+"Odisha","21","Kendrapada","360","Rajnagar","3442","Kolipur","119240","Barunipalla","396036",true,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Chitrakoot","136","Pahari","1045","Kandha Baniya","58480","Kandhwaniya","155612",true,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Kannauj","155","Umarda","1265","Beharapur Gaisapur","71429","Beharapur Gaisapur","147221",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"West Bengal","19","Dakshin Dinajpur","310","Bansihari","2871","Brajaballavpur","109194","Badalpur","311661",true,"Community Grey Water Management Systems",1,0,0,0,3.76
+"Bihar","10","Muzaffarpur","208","Bochahan","1880","Unsar","97702","Borwara","228942",true,"Community Soak/Leach/Magic Pits",1,0,0,"",100
+"Uttar Pradesh","9","Ayodhya","140","Maya Bazar","1091","Alapur","61092","Alapur Uparhar","166478",true,"Community Grey Water Management Systems",4,0,0,0,100
+"Uttarakhand","5","Pithoragarh","53","Didihat","416","Baltir","25334","Dhami Gaon","49248",true,"Drainage facility available in village",1,0,0,"",""
+"Meghalaya","17","Ri Bhoi","276","Umsning","2470","Rtiang","287036","Rtiang","277911",true,"Drainage facility available in village",0,0,0,"",""
+"Odisha","21","Kataka","350","Mahanga","3339","Bheda","116992","Ramkrushnapur","399549",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Bihar","10","Saran","218","Panapur","2074","Chakiya","100761","Saraunja","232905",true,"Drainage facility available in village",6,0,0,"",""
+"Rajasthan","8","Jaipur","102","Jalsu","6820","Jalsoo","38237","Mohanpura","80273",false,"Community Grey Water Management Systems",0,0,0,0,0
+"Uttarakhand","5","Champawat","48","Champawat","376","Shakti Pur Bunga","22757","Shaktipur","53851",true,"Community Grey Water Management Systems",2,0,0,0,41.27
+"Arunachal Pradesh","12","Upper Subansiri","241","Nacho","2281","Paying-I","0","Payingmoring","262846",false,"Drainage facility available in village",1,0,0,"",""
+"Tamil Nadu","33","Thiruvallur","589","Poonamallee","6351","Kuthambakkam","229383","Kuthambakkam","629143",true,"Community Soak/Leach/Magic Pits",2,0,0,"",10.66
+"Uttar Pradesh","9","Azamgarh","123","Koilsa","872","Dhansinghpur","270575","Jagadishpur Mt. Dhansinghpur","192137",true,"Community Soak/Leach/Magic Pits",2,0,0,"",100
+"Rajasthan","8","Jhunjhunu","106","Buhana","714","Sultana Ahiran","39391","Amarsar","71337",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Rajasthan","8","Didwana-Kuchaman","768","Nawa","6854","Indokha","40499","Ganeshpura","83859",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Chhattisgarh","22","Mahasamund","385","Basna","3680","Barbaspur","127496","Banipali","445752",true,"Drainage facility available in village",1,0,0,"",""
+"Manipur","14","Senapati","257","Tadubi","2375","Zenamaci","257307","Zenamci","268408",false,"Community Grey Water Management Systems",0,0,0,0,0
+"Odisha","21","Debagada","351","Reamal","3347","Naulipada","117212","Sapuinali","383453",true,"Community Grey Water Management Systems",0,0,0,0,0
+"Bihar","10","Saran","218","Garkha","2065","Pachpatia","100634","Deuria","234403",true,"Drainage facility available in village",5,0,0,"",""
+"Uttar Pradesh","9","Jaunpur","152","Karanja Kala","1229","Deokali","69556","Deokali","201867",true,"Community Soak/Leach/Magic Pits",10,0,0,"",100
+"Bihar","10","Katihar","201","Manihari","1810","Uttari Kantakosh","96613","Googachhi","225686",true,"Drainage facility available in village",2,1,0,"",""
+"Karnataka","29","Chikkaballapura","630","Chintamani","5867","Kadadanamari","218855","Kodigal","624383",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Karnataka","29","Mandya","544","Nagamangala","5883","Haradanahalli","219377","J.Chikkanahalli","613928",true,"Community Soak/Leach/Magic Pits",0,0,0,"",0
+"Jharkhand","20","Chatra","323","Lawalong","3077","Rimi","111462","Jordag","348571",true,"Drainage facility available in village",1,0,0,"",""
+"Uttar Pradesh","9","Mainpuri","166","Kishni","1365","Sakra","77621","Sakra","126979",true,"Drainage facility available in village",21,0,0,"",""
